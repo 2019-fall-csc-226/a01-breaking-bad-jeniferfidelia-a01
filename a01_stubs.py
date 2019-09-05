@@ -21,29 +21,29 @@ birth_year= int(input("please input your birth year:"))
 
 # TODO Check the year using if conditionals, and print the correct animal for that year.
 # See the a01_pets.py for examples
-if birth_year == 1996
+if birth_year == 1996:
     print ("you are a rat")
-elif birth_year == 1997
+elif birth_year == 1997:
     print("you are an ox")
-elif birth_year == 1998
+elif birth_year == 1998:
     print ("you are a tiger")
-elif birth_year == 1999
+elif birth_year == 1999:
     print("you are a rabbit")
-elif birth_year == 2000
+elif birth_year == 2000:
     print ("you are a dragon")
-elif birth_year == 2001
+elif birth_year == 2001:
     print ("you are a snake")
-elif birth_year == 2002
+elif birth_year == 2002:
     print ("you are a horse")
-elif birth_year == 2003
+elif birth_year == 2003:
     print ("you are a goat")
-elif birth_year ==2004
+elif birth_year ==2004:
     print ("you are a monkey")
-elif birth_year == 2005
+elif birth_year == 2005:
     print ("you are a rooster")
-elif birth_year == 2006
+elif birth_year == 2006:
     print ("you are a dog")
-elif birth_year == 2007
+elif birth_year == 2007:
     print("you are a pig")
 
 
@@ -52,10 +52,33 @@ elif birth_year == 2007
 ######################################################################
 # (Required) Task 2
 # TODO Ask the user for their friend's birth year
-
+friend_birth_year= int(input("please input your friend's birth year:"))
 
 # TODO Similar to above, check your friend's year using if conditionals, and print the correct animal for that year
-
+if friend_birth_year == 2008:
+    print ("you are a rat")
+elif friend_birth_year == 2009:
+    print("you are an ox")
+elif friend_birth_year == 2010:
+    print ("you are a tiger")
+elif friend_birth_year == 2011:
+    print("you are a rabbit")
+elif friend_birth_year == 2012:
+    print ("you are a dragon")
+elif friend_birth_year == 2013:
+    print ("you are a snake")
+elif friend_birth_year == 2014:
+    print ("you are a horse")
+elif friend_birth_year == 2015:
+    print ("you are a goat")
+elif friend_birth_year ==2016:
+    print ("you are a monkey")
+elif friend_birth_year == 2017:
+    print ("you are a rooster")
+elif friend_birth_year == 2019:
+    print ("you are a dog")
+elif friend_birth_year == 2020:
+    print("you are a pig")
 
 ######################################################################
 # (Optional) Task 3
