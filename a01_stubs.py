@@ -1,6 +1,6 @@
 ######################################################################
-# Author: Dr. Scott Heggen      TODO: Change this to your name
-# Username: heggens             TODO: Change this to your username
+# Author: Jenifer Fidelia     TODO: Change this to your name
+# Username: fideliaj        TODO: Change this to your username
 #
 # Assignment: A01
 #
@@ -17,10 +17,36 @@
 ######################################################################
 # (Required) Task 1
 # TODO Ask user for their birth year
-
+birth_year= int(input("please input your birth year:"))
 
 # TODO Check the year using if conditionals, and print the correct animal for that year.
 # See the a01_pets.py for examples
+if birth_year == 1996
+    print ("you are a rat")
+elif birth_year == 1997
+    print("you are an ox")
+elif birth_year == 1998
+    print ("you are a tiger")
+elif birth_year == 1999
+    print("you are a rabbit")
+elif birth_year == 2000
+    print ("you are a dragon")
+elif birth_year == 2001
+    print ("you are a snake")
+elif birth_year == 2002
+    print ("you are a horse")
+elif birth_year == 2003
+    print ("you are a goat")
+elif birth_year ==2004
+    print ("you are a monkey")
+elif birth_year == 2005
+    print ("you are a rooster")
+elif birth_year == 2006
+    print ("you are a dog")
+elif birth_year == 2007
+    print("you are a pig")
+
+
 
 
 ######################################################################
